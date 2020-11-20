@@ -1,3 +1,8 @@
+/**
+ * @param inputArray = ["aba", "aa", "ad", "vcd", "aba"]
+ * @return {*}
+ */
+
 function allLongestStrings(inputArray) {
     //Keeps track of the string with the longest length
     let longest =0;
